@@ -1,0 +1,97 @@
+SEND GRIP 1
+OK GRIP
+AXIS 1 distance_mm=184.5 valid=1 age=10 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.5 valid=1 age=58 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.6 valid=1 age=56 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.5 valid=1 age=37 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.6 valid=1 age=33 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.5 valid=1 age=82 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.5 valid=1 age=66 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.5 valid=1 age=47 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.6 valid=1 age=35 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.4 valid=1 age=83 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.5 valid=1 age=65 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.6 valid=1 age=46 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.5 valid=1 age=33 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=226.8 valid=1 age=81 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.5 valid=1 age=3 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.2 valid=1 age=52 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.4 valid=1 age=45 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=226.7 valid=1 age=27 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.3 valid=1 age=27 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=226.8 valid=1 age=75 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.3 valid=1 age=65 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.4 valid=1 age=47 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 1 distance_mm=184.3 valid=1 age=32 state=3 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NO_PROGRESS close_dir=0 close_sign=-1 endpoints=3
+FAULT source_axis=1 trigger_mm=184.3 target_mm=175.0
+AXIS 2 distance_mm=226.9 valid=1 age=86 state=3 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NO_PROGRESS close_dir=0 close_sign=-1 endpoints=3
+FAULT source_axis=1 trigger_mm=184.3 target_mm=175.0
+OK STOP
+
+SEND GRIP 2
+OK GRIP
+LR400-1 distance_mm=164.8 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.2 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=164.6 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.3 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=164.5 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=164.2 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+AXIS 1 distance_mm=164.2 valid=1 age=26 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.1 valid=1 age=74 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+LR400-1 distance_mm=164.2 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=163.9 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=163.7 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.0 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=163.5 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+AXIS 1 distance_mm=163.3 valid=1 age=6 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.1 valid=1 age=53 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+LR400-1 distance_mm=163.3 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=163.0 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=162.7 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.0 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=162.6 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.0 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=162.3 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.0 valid=1 state=2 fault=NONE
+AXIS 1 distance_mm=162.3 valid=1 age=63 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.0 valid=1 age=43 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+LR400-1 distance_mm=162.2 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.0 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=162.0 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=161.8 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=161.6 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+AXIS 1 distance_mm=161.3 valid=1 age=35 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.1 valid=1 age=83 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+LR400-1 distance_mm=161.2 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=161.0 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=160.8 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.1 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=160.8 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.2 valid=1 state=2 fault=NONE
+AXIS 1 distance_mm=160.7 valid=1 age=3 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.2 valid=1 age=51 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+LR400-1 distance_mm=160.7 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.2 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=160.6 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.2 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=160.6 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.2 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=160.5 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.2 valid=1 state=2 fault=NONE
+LR400-1 distance_mm=160.3 valid=1 state=0 fault=NONE
+LR400-2 distance_mm=227.2 valid=1 state=2 fault=NONE
+AXIS 1 distance_mm=160.2 valid=1 age=54 state=0 start_mm=275.0 end_mm=175.0 target_mm=0.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+AXIS 2 distance_mm=227.2 valid=1 age=35 state=2 start_mm=275.0 end_mm=175.0 target_mm=175.0 tol_mm=0.5 cal=1 fault=NONE close_dir=0 close_sign=-1 endpoints=3
+
